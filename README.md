@@ -1,7 +1,3 @@
-- Hello People!
-- I am Sarab
-- I am a freshman at LUTHER COLLEGE
-- Majoring in Computer Science & Data Science
 - Find me on LinkedIn @sarabaftab  
 
 <!---
