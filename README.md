@@ -1,7 +1,11 @@
 👋 Hey, I’m Sarab!
+
 💻 Passionate about Web Dev and ML.
+
 📖 Learning JavaScript and Next.js.
-🌟  Looking for cool web projects to work on.
+
+🌟 Looking for cool web projects to work on.
+
 📫 Reach me at sarabfsd@gmail.com.
 
 <!---
