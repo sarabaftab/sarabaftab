@@ -4,7 +4,7 @@
 
 📖 Learning JavaScript and Next.js.
 
-🌟 Looking for cool web developement projects to work on.
+🌟 Looking for cool web development projects to work on.
 
 📫 Reach me at sarabfsd@gmail.com.
 
