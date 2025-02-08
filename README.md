@@ -2,7 +2,7 @@
 
 💻 Passionate about Web Development and Machine Learning.
 
-📖 Learning JavaScript and Next.js.
+📖 Learning Swift and React.js.
 
 🌟 Looking for cool web development projects to work on.
 
