@@ -19,7 +19,7 @@
 ### 📫 Connect With Me
 
 - 🌐 Website: [vantixai.xyz](https://vantixai.xyz)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sarabaftab)  
+- 💼 LinkedIn: [linkedin.com/in/sarabaftab](https://linkedin.com/in/sarabaftab)  
 - 📧 Email: [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)
 
 ---
