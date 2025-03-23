@@ -19,11 +19,11 @@
 ### 📫 Connect With Me
 
 - 🌐 Website: [vantixai.xyz](https://vantixai.xyz)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 📧 Email: [contact@vantixai.xyz](mailto:contact@vantixai.xyz)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sarabaftab)  
+- 📧 Email: [sarabfsd@gmail.com](mailto:sarabfsd@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarabaftab&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
