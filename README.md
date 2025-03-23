@@ -25,6 +25,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabaftab&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabaftab&theme=tokyonight&date_format=M/D/Y&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
