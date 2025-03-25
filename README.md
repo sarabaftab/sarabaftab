@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarabaftab&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabaftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
