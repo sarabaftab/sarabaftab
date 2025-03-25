@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarabaftab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarabaftab&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
