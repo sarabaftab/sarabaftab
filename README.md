@@ -25,6 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabaftab&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabaftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
