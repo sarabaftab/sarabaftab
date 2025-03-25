@@ -25,7 +25,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarabaftab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=sarabaftab&label=Visitors&countColor=%23263759" />
 </p>
+
 
 
