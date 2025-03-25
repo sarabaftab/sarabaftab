@@ -25,8 +25,9 @@
 ---
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=sarabaftab&label=Visitors&countColor=%23263759" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabaftab&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 
 
 
