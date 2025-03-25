@@ -24,8 +24,7 @@
 
 ---
 
-### ⚙️ Projects I’m Working On
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarabaftab&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
 
-- 🎥 [VantixAI](https://vantixai.xyz) – Video-based AI assistant that sees, hears, and understands  
-- 🧩 Smart Agent Systems – Experimenting with multi-modal LLM agents  
-- 🖼 Real-time Object Detection with YOLOv8 + Voice Commands  
