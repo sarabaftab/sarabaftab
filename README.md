@@ -25,8 +25,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabaftab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sarabaftab&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
 
 
 
