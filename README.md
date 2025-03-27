@@ -62,14 +62,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 
-**Concepts**  
-![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-333333?style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-333333?style=flat)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-333333?style=flat)
-
 
 ---
 
