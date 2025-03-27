@@ -24,10 +24,21 @@
 
 ---
 
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
+![YOLO](https://img.shields.io/badge/-YOLO-333333?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+
+---
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sarabaftab&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
-
 
 
 
