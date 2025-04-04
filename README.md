@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- Computer Science student with a passion for applied AI  
+- Computer Science student with a passion for applied AI and ML 
 - Building tools that combine machine learning, vision, and voice interaction  
 - Currently working on **VantixAI v1.0**, a video-based AI assistant with speech and visual understanding  
 - Exploring LLMs, agents, and real-time AI systems
